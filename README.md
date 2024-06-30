@@ -6,7 +6,7 @@ pip install django
 
 pip install mysqlclient
 
-sjango-admin startprojent nome_do_projeto .
+django-admin startprojent nome_do_projeto .
 
 python manage.py makemigrations
 
